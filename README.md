@@ -1,6 +1,9 @@
 # 📦 react-button-maker
-
 A simple and flexible React component for creating fully customizable buttons with optional text overlays. Build buttons your way with complete styling control.
+
+
+<img src="./assets/react-button-maker-demo.png" alt="Button Maker Logo" width="400"/>
+
 
 ---
 
