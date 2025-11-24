@@ -1,6 +1,6 @@
 {
  "name": "react-button-maker",
- "version": "1.0.2",
+ "version": "1.0.3",
  "description": "A flexible React component for building fully customizable buttons with user-defined text and styling.",
  "main": "dist/index.js",
  "module": "dist/index.mjs",
@@ -23,8 +23,21 @@
   "tslib": "^2.8.1",
   "typescript": "^5.9.3"
  },
- "keywords": [
-    "react-button-maker",
-    "button"
- ]
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "react",
+    "button",
+    "component",
+    "customizable",
+    "tailwind",
+    "typescript"
+  ],
+  "homepage": "https://github.com/Q-Niranjan/react-button-maker#readme",
+  "bugs": {
+    "url": "https://github.com/Q-Niranjan/react-button-maker/issues"
+  }
 }
