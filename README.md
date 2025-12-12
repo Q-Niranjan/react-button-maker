@@ -37,7 +37,7 @@ yarn add react-button-maker
 **Step 1: Import the component**
 
 ```javascript
-import ButtonMaker from "react-button-maker";
+import { ButtonMaker } from "react-button-maker";
 ```
 
 **Step 2: Add to your component**
